@@ -7,4 +7,4 @@ This robot consists of the following parts:
 4. Base: The base is the bottom part of the robot that provides stability and support.
 5. Screen: This display component is likely used to show information or interact with users.
 
-![stll](https://github.com/LatifahAbuhamamah/Robot-Parts/blob/main/Robot%20parts.stl)
+<script src="https://github.com/LatifahAbuhamamah/Robot-Parts/blob/main/Robot%20parts.stl"</script>
